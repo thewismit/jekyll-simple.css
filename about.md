@@ -1,7 +1,7 @@
 ---
 title: About | Seriously, you guys...
 header: About this site
-description: 01110100 01101000 01100101 01110111 01101001 01110011 01101101 01101001 01110100 00101110 01100011 01101111 01101101
+description: 74 68 65 77 69 73 6d 69 74 2e 63 6f 6d
 permalink: /about/
 layout: default
 ---
