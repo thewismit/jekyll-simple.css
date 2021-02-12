@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://thewismit.com/assets/images/favicon.png" />
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
+    {% feed_meta %}
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <header>
+      {% include navigation.html %}
+      <div class="header"> <h2>{{ page.header }}</h2></div>
+      <p class="index-intro">{{ page.description }}</p>
+    </header>
+
+    <main>      
+      </br>
+      <div class="main_content">{{ content }}</div>
+    </main>
+
+    <footer id="footer">
+      <div id="footer-content">This site was created by <a href="https://thewismit.com">Will Smith</a></div>
+    </footer>
+  </body>
+ </html>
