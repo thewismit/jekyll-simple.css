@@ -16,4 +16,3 @@ Additionally, in the spirit of an ad-free and tracking-free social media experie
 The recommended donation is 2 USD/US$ per month. Please contribute what you are able to.
 
 Thank you so much for your help in building this community and we look forward to getting to know you!
-[psynergy.io](http://psynergy.io)
