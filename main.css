@@ -79,7 +79,7 @@ div.main_content {
  color: #E6E6FA;
 }
 
-#footer {
+/*#footer {
   position: absolute;
   bottom: 0;
   height: 40px; /* the footer's total height */
@@ -91,4 +91,4 @@ div.main_content {
  /* border: 1px solid #ab47bc;*/
  /* height: 42px; /* height + top/bottom padding + top/bottom border must add up to footer height */
  /* padding: 0px;*/
-}
+}*/
