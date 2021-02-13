@@ -4,16 +4,21 @@ header: About this site
 description: 74 68 65 77 69 73 6d 69 74 2e 63 6f 6d
 permalink: /about/
 layout: default
+modified: 2021-02-13T13:30:28-05:00
 ---
+
 ## Greetings, Netizens!
 
 My name is Will Smith and I am a full-time, husband and father and a part-time, bumbling idiot!
 
-I currently live in Newington, Connecticut, with my wife and two children and I am employed in the insurance industry as a Senior Technical Admin Specialist - who comes up with these job titles?
+I currently live in Newington, Connecticut, with my wife and two children and I work in the insurance industry as a Senior Technical Admin Specialist - who comes up with these job titles?
 
 What that really means is, I do whatever is needed of me in various Information Technology roles but my specialty is messaging security and administration on the Macintosh, Linux and Windows platforms.
+
 ## Documentation
-Much of my day revolves around creating, editing, and following documented processes and in the interest of continuously becoming better at it, I've decided that part of this site will contain documentation about anything I find interesting or useful. If you're not on mobile, this theme provides an easy to use table of contents feature for any documentation I post. Click the image to see an example.
+
+Much of my day revolves around creating, editing, and following documented processes and in the interest of continuously becoming better at it, I've decided that part of this site will contain documentation about anything I find interesting or useful.
+
 ## My blog
 
 One of the other reasons I'm doing this is to hopefully have a
