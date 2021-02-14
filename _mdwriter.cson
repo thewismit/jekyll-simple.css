@@ -57,6 +57,7 @@ layout: "{layout}"
 title: "{title}"
 date: "{date}"
 header: "{title}"
+description: ""
 permalink: /{slug}/
 ---
 """
