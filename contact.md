@@ -6,7 +6,7 @@ permalink: "/contact/"
 layout: default
 ---
 
-my e-mail address is will @ [this domain name]
+My e-mail address is will @ [this domain name]
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

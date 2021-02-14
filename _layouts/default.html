@@ -7,22 +7,21 @@
     <title>{{ page.title }}</title>
     <meta name="description" content="{{ page.description }}" />
     {% feed_meta %}
-    <link rel="stylesheet" href="/main.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
   </head>
   <body>
     <header>
       {% include navigation.html %}
       <div class="header"> <h1>{{ page.header }}</h1></div>
-      <p class="index-intro">{{ page.description }}</p>
+      <!--<p class="index-intro">{{ page.description }}</p>-->
     </header>
 
-    <main>      
-      </br>
+    <main>
       <div class="main_content">{{ content }}</div>
     </main>
 
-    <footer id="footer">
+    <!--<footer id="footer">
       <div id="footer-content">This site was created by <a href="https://thewismit.com">Will Smith</a></div>
-    </footer>
+    </footer>-->
   </body>
  </html>
