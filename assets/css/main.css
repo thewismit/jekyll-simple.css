@@ -69,7 +69,7 @@ hr {border:none;height:2px;color:#ffb300;background-color:#ffb300;}
 }*/
 table.index {border-spacing:0px;}
 table.index td.date {font-size:small;color:#828282;}
-table.index tr.px1-spacer {padding-top: 2px;}
+table.index tr.px1-spacer {padding-top: 10px;}
 table.oddeven {font-size:smaller;border-spacing:0px;border:1px solid #cccccc;width:100%;max-width:100%;margin-bottom:15px;background-color:transparent;text-align:left;}
 table.oddeven th {font-weight:bold;border:1px solid #cccccc;padding:8px;}
 table.oddeven td {border:1px solid #cccccc;padding:8px;}
