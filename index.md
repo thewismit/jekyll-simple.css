@@ -1,6 +1,6 @@
 ---
-title: Seriously, you guys... {}
-header: Seriously, you guys... {}
+title: Srsly, u guys... {}
+header: Srsly, u guys... {}
 description: A fantastical idiot's rantings and ravings.
 permalink: /
 layout: default
