@@ -15,3 +15,4 @@ layout: default
 </table>
 
 <a rel="me" href="https://psynergy.io/@thewismit"></a>
+<a rel="me" href="https://talkopol.is/@thewismit"></a>

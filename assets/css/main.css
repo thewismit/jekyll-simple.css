@@ -94,14 +94,11 @@ div.main_content {
  color: #E6E6FA;
 }
 
-/*#footer {
-  position: absolute;
-  bottom: 0;
-  height: 40px;
-  margin-top: 40px;
+#footer {
+  padding-top: 20px;
 }
 
-#footer-content {
+/*#footer-content {
     background-color: #f3e5f5;
     border: 1px solid #ab47bc;
     height: 42px;
