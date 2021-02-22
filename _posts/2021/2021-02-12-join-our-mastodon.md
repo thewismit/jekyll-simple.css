@@ -7,7 +7,7 @@ permalink: "/join-our-mastodon/"
 layout: post
 ---
 
-[psynergy.io](http://psynergy.io) is an open registration, English speaking Mastodon instance.
+[talkopol.is](https://talkopol.is) is an open registration, English speaking Mastodon instance.
 
 We are all friends and some of us are family. Because this is a family friendly community, we ask that you please read our Code of Conduct, Server Rules, and Terms of Service before joining.
 
